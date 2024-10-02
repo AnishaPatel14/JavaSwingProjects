@@ -4,6 +4,7 @@ A collection of simple desktop applications built using Java Swing, demonstratin
 Features:
 - Calculator Form: Basic arithmetic operations
 - Registration Form: User input validation and submission
+- Simple Intrest Calculator
 - Login Form
 
 Technologies Used:
